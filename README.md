@@ -15,7 +15,7 @@ I'm a **Software Engineer** currently continuing my training at [42 Perpignan](h
 
 ## 🤖 Contact Me
 
-- **LinkedIn**: [linkedin.com/in/qbnt](https://www.linkedin.com/in/quentin-banet/))
+- **LinkedIn**: [linkedin.com/in/qbnt](https://www.linkedin.com/in/quentin-banet/)
 - **Email**: qbanet@student.42Perpignan.fr
 
 ---
